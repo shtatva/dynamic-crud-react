@@ -1,0 +1,32 @@
+{
+  "name": "dynamic-crud-react",
+  "version": "1.0.0",
+  "description": "Add the dependency packages for client side in dynamic crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtatva/dynamic-crud-react.git"
+  },
+  "keywords": [
+    "Dynamic",
+    "Crud"
+  ],
+  "author": "Harsh Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shtatva/dynamic-crud-react/issues"
+  },
+  "homepage": "https://github.com/shtatva/dynamic-crud-react#readme",
+  "dependencies": {
+    "@inertiajs/inertia-react": "^0.8.1",
+    "@inertiajs/react": "^1.0.14",
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-data-table-component": "^7.6.2",
+    "react-dom": "^18.2.0",
+    "sweetalert2": "^11.10.4"
+  }
+}
